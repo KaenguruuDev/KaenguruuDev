@@ -1,16 +1,16 @@
-## Hi there 👋
+# Kaenguruu Dev
+---
 
-<!--
-**KaenguruuDev/KaenguruuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+Hey👋, I'm a german programmer, developing in C#, Python, and some other languages.
+For game dev I'm using the **open source** game engine [Godot](https://godotengine.org/).
 
-Here are some ideas to get you started:
+### Projects
+Currently my active project (since it's taking up a lot of time) is a discord bot that I'm hoping to release to the public at some point - until then, it'll need some more work though. You can see all my projects on [KaenguruuDev/Projects](https://kaenguruu-dev.me/projects).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+[![](https://skillicons.dev/icons?i=arduino,cs,cloudflare,discord,bots,docker,dotnet,flask,git,github,gitlab,godot,html,java,js,md,mint,mysql,obsidian,py,regex,stackoverflow,vscode,windows)](https://skillicons.dev)
+
+
+### Donations
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O216FPAT)
