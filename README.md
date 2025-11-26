@@ -7,7 +7,7 @@ Hey👋, I'm a german programmer, developing in C#, Python, and some other langu
 For game dev I'm using the **open source** game engine [Godot](https://godotengine.org/).
 
 ### Projects
-I am mostly working on [**BeutelBot**](https://bot.kaenguruu.dev)
+I am mostly working on [**BeutelBot**](https://bot.kaenguruu.dev), a discord bot focused on increasing engagement in smaller discord servers.
 
 ### Skills
 [![](https://skillicons.dev/icons?i=vscode,cs,dotnet,py,git,godot,cloudflare,docker,bots,flask,mint,mysql,html,java,js,css,obsidian,regex,stackoverflow,windows&perline=10)](https://skillicons.dev)
