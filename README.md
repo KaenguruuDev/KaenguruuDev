@@ -6,11 +6,22 @@ Hey👋, I'm a german programmer, developing in C#, Python, and some other langu
 
 For game dev I'm using the **open source** game engine [Godot](https://godotengine.org/).
 
+---
+
 ### Projects
-I am mostly working on [**BeutelBot**](https://bot.kaenguruu.dev), a discord bot focused on increasing engagement in smaller discord servers.
+
+**[`BeutelBot`](https://bot.kaenguruu.dev)**
+
+A discord bot focused on increasing engagement in smaller discord servers. While it can be added to servers, I do not recommend it as it isn't quite ready yet.
+
+**[`Senf`](https://github.com/KaenguruuDev/SenfDocs)**
+
+A combination of self-hostable C# backend + CLI to synchronize .env files across multiple machines using SSH Keys for authentication.
+
+---
 
 ### Skills
-[![](https://skillicons.dev/icons?i=vscode,cs,dotnet,py,git,godot,cloudflare,docker,bots,flask,mint,mysql,html,java,js,css,obsidian,regex,stackoverflow,windows&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,cs,dotnet,py,godot,cloudflare&perline=10)](https://skillicons.dev)
 
 
 ### Donations
