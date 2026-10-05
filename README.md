@@ -21,7 +21,7 @@ A combination of self-hostable C# backend + CLI to synchronize .env files across
 ---
 
 ### Skills
-[![](https://skillicons.dev/icons?i=git,cs,dotnet,py,godot,cloudflare&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,cs,dotnet,py,godot,cloudflare,java&perline=10)](https://skillicons.dev)
 
 
 ### Donations
